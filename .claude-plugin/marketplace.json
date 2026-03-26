@@ -1,0 +1,26 @@
+{
+  "name": "brand-alchemy-activation",
+  "owner": {
+    "name": "Thriving Era Studio",
+    "email": "rochellelivingstone@gmail.com"
+  },
+  "metadata": {
+    "description": "Free Brand Alchemy Activation — 5 questions, complete brand snapshot. By Thriving Era Studio.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "brand-alchemy-activation",
+      "source": "./plugins/brand-alchemy-activation",
+      "description": "A free 5-part Brand Alchemy Activation. Discover what your brand is actually transmitting, where the gaps are, and what to do next. Part 1 of the Conscious Founder OS Activation.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Thriving Era Studio"
+      },
+      "category": "business",
+      "tags": ["brand-alchemy", "brand-strategy", "conscious-business", "positioning", "founder-os"],
+      "keywords": ["brand alchemy", "brand activation", "conscious founder", "positioning", "brand frequency"]
+    }
+  ]
+}
