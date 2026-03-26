@@ -1,0 +1,25 @@
+{
+  "name": "brand-alchemy-activation",
+  "display_name": "Brand Alchemy Activation",
+  "version": "1.0.0",
+  "description": "A free 5-part brand activation sequence. Discover your positioning, your audience, and what your brand is actually transmitting. By Thriving Era Studio.",
+  "author": {
+    "name": "Rochelle Livingstone",
+    "url": "https://founders.thrivingera.com",
+    "email": "rochelle@thrivingera.com"
+  },
+  "homepage": "https://founders.thrivingera.com",
+  "repository": "https://github.com/RochaStone/brand-alchemy-activation",
+  "license": "FREE",
+  "categories": ["productivity", "brand", "business", "founder"],
+  "tags": ["brand-alchemy", "brand-strategy", "conscious-business", "founder-os", "positioning"],
+  "install": {
+    "command": "/plugin marketplace add RochaStone/brand-alchemy-activation"
+  },
+  "requirements": {
+    "claude_code": ">=1.0.0"
+  },
+  "pricing": {
+    "model": "free"
+  }
+}
