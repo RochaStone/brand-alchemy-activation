@@ -71,11 +71,11 @@ WHAT IS TRYING TO EMERGE
 The fuller expression this founder described in Part 5 — named precisely, taken seriously, treated as the actual direction of the business. Not "that's a beautiful vision." This is where the business is going. What would need to be true for it to be visible in 90 days?
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-THIS IS PART 1 OF 7
+THIS IS PART 1 OF 8
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-This snapshot is the first of 7 parts in the Conscious Founder OS Activation.
+This snapshot is the first of 8 parts in the Conscious Founder OS Activation.
 
-Parts 2–7 — Audience Intelligence, Brand Audit, OS Orientation, First Skill Stack, Archetype Assignment, and Brand OS State File — are run with Rochelle Livingstone in your Done-With-You session.
+Parts 2–8 — Audience Intelligence, Brand Audit, Founder Archetype Reveal, OS Orientation, First Skill Stack, Brand OS (CLAUDE.md), and Brand OS State File — are run with Rochelle Livingstone in your Done-With-You session.
 
 In the full session, this snapshot becomes the foundation of your Brand OS — the living document that governs every output the 59-skill OS produces. Your Voice DNA is extracted from it. Your niche kit is calibrated to it. Every skill in the OS reads it before producing anything.
 

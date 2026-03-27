@@ -11,7 +11,7 @@ version: 1.0.0
 # Brand Alchemy Activation
 ### By Thriving Era Studio — Rochelle Livingstone
 
-> This is the first sequence of the Conscious Founder OS Activation — offered here as a free standalone experience. It gives you a complete Brand Alchemy Snapshot of where your brand is right now. The full 7-part activation is run with Rochelle in your Done-With-You session.
+> This is the first sequence of the Conscious Founder OS Activation — offered here as a free standalone experience. It gives you a complete Brand Alchemy Snapshot of where your brand is right now. The full 8-part activation is run with Rochelle in your Done-With-You session.
 
 ---
 
@@ -68,7 +68,7 @@ What your brand would become if you stopped editing yourself. The fuller express
 
 A Brand Alchemy Snapshot — a complete, honest read of your brand as it stands, with 3 specific moves to close the frequency gap.
 
-This snapshot is Part 1 of the full 7-part Conscious Founder OS Activation.
+This snapshot is Part 1 of the full 8-part Conscious Founder OS Activation.
 
 ---
 
@@ -78,7 +78,7 @@ This activation gives you the diagnosis. The Conscious Founder OS builds from it
 
 **What the full OS adds:**
 
-- **Part 2–7 of the Activation** — Audience Intelligence, Brand Audit, OS Orientation, First Skill Stack, Archetype Assignment, Brand OS State File — all run with Rochelle in your DWY session
+- **Parts 2–8 of the Activation** — Audience Intelligence, Brand Audit, Founder Archetype Reveal, OS Orientation, First Skill Stack, Brand OS (CLAUDE.md), Brand OS State File — all run with Rochelle in your DWY session
 - **Voice DNA** — your brand frequency extracted into a living document that governs every output the OS produces
 - **59 skills across 7 departments** — all calibrated to what this activation surfaces
 - **Brand state persistence** — your snapshot doesn't sit in a document. It lives in your Brand OS, loaded into every session, compounding over time
@@ -100,8 +100,8 @@ You stop losing time to strategy paralysis — because the weekly CEO Review pro
 You stop feeling like you have to reinvent yourself every session — because your Brand OS state accumulates. Every session builds on the last. The OS knows where you are.
 
 **What's included at £547:**
-- Live Done-With-You session with Rochelle — OS installed, Voice DNA extracted, full 7-part activation completed, niche kit delivered
-- 59 skills across 7 departments: Brand & Positioning, Content & Copy, Marketing & Growth, Sales & Revenue, CEO Suite, Research & Intelligence, Onboarding & Memory
+- Live Done-With-You session with Rochelle — OS installed, Voice DNA extracted, full 8-part activation completed, niche kit delivered
+- 59 skills across 7 categories: Brand & Positioning, Content & Copy, Marketing & Growth, Sales & Revenue, CEO Suite, Research & Intelligence, Onboarding — plus Brand Guardian quality gate
 - Brand OS state persistence — every session builds on the last
 - Your Niche Industry Kit — calibrated to your specific market
 - Members portal at members.thrivingera.com
